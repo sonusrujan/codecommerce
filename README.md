@@ -1,6 +1,6 @@
 # MERN E-COMMERCE 
 
-Hi! My name is Charishma
+Hello! I'm Srujan 
 
 
 
